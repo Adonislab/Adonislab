@@ -11,7 +11,7 @@ I'm most interested in combining robotics and artificial intelligence to develop
 - **Other Tools:** Git, Docker, Jupyter Notebooks, AWS, GCP, Kubernetes
 
 ## Get in Touch
-- 📫 You can reach me at [nobimetanguy19@gmail.com] or connect with me on [LinkedIn]([your-linkedin-profile](https://www.linkedin.com/in/tanguy-adonis-nobime-078166200/)).
+- 📫 You can reach me at [nobimetanguy19@gmail.com] or connect with me on [LinkedIn][your-linkedin-profile](https://www.linkedin.com/in/tanguy-adonis-nobime-078166200/].
 - My website [https://adonisnobime.vercel.app/]
 
 Let's create the future of AI together!
