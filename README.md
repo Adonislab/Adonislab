@@ -17,7 +17,7 @@ I'm most interested in combining robotics and artificial intelligence to develop
 
 Let's create the future of AI together!
 
-![AI Image](your-image-url)
+
 <!--
 **Adonislab/Adonislab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
