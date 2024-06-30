@@ -1,5 +1,7 @@
-## Hi there 👋
+## About me 👋
+Hi there! I'm NOBIME Tanguy Adonis. Artificial intelligence is a passion and i work on it every day to reach the top with great publications. I intend to be one of the next scientists to develop the best models in the field of healthcare (an area that is particularly close to my heart) and the applications of powerful linguistic models.
 
+I'm most interested in combining robotics and artificial intelligence to develop a mini-robot capable of operating without skin damage. My specialization in data analysis and statistical modeling has enabled me to design innovative solutions for companies in a variety of sectors, from finance to healthcare to e-commerce.
 <!--
 **Adonislab/Adonislab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
